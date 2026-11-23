@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "16540c79e0c24ffc17d7fb2cdeed906f7919dd9d",
+    "author": "Ryan Zomorrodi <ryanzomorrodi@gmail.com>",
+    "time": "2026-11-23T21:23:46Z",
+    "files": 1,
+    "merge": false,
+    "message": "Delete flake.lock"
+  },
+  "repo": "https://github.com/ropensci/sasquatch",
+  "pkg": "sasquatch",
+  "time": "2026-11-23T21:53:04Z"
+}
